@@ -1,0 +1,6 @@
+Title: landsat-geonetwork
+Coder: moenk
+Description: Converts Landsat TM Metadata to PostGIS and GeoNetwork
+Requires: Linux, PostGIS, GeoNetwork
+Language: Shell, SQL
+Purpose: Enable users to browse in a local database of about 4.000.000 metadata records of landsat scenes from USGS
